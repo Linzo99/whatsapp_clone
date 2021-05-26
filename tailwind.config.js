@@ -12,7 +12,7 @@ module.exports = {
         dark:{
           DEFAULT: '#131c21',
           light : '#d5d4d7',
-          lighter : '#222e37'
+          lighter : '#2a2f32'
         }
       },
       backgroundImage: theme=>({
